@@ -1,0 +1,24 @@
+{
+  "name": "npm-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sayhi": "cowsay hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-you/npm-introduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-you/npm-introduction/issues"
+  },
+  "homepage": "https://github.com/Ahmed-you/npm-introduction#readme",
+  "devDependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
